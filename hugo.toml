@@ -1,4 +1,4 @@
-baseURL = 'https://wyrdstoned.github.io/'
+baseURL = 'https://wyrdstoned.github.io/wyrdstoned/'
 languageCode = 'en-us'
 title = 'wyrdstoned'
 theme = 'terminal'
